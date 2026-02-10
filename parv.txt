@@ -1,0 +1,4 @@
+My name is Parv.
+I am a Computer Science major.
+I’m from India.
+Fun fact: I like building side projects.
